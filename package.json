@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "pig-latin": "^2.0.2",
+    "readline-sync": "^1.4.10",
+    "statistics": "^3.3.0"
+  }
+}
