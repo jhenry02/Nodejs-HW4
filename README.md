@@ -5,7 +5,7 @@
 ## Screenshotting output of latest node version
 
 
-## Objective 2:
+# Objective 2:
 ## Grab Example Scripts 1-8 from provided assignment repo
 ## Document all 8 examples and show output of each
 ## Describing what each example does
