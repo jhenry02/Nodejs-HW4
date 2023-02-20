@@ -2,7 +2,7 @@
 # Z23587940
 # Objective 1:
 ## Node version manager setup
-#Screenshotting output of latest node version
+## Screenshotting output of latest node version
 
 
 ## Objective 2:
