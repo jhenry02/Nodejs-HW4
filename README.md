@@ -1,11 +1,11 @@
 # hw4-nodejs-jhenry02
 # Z23587940
-# Objective 1:
+# Objective 1: Node Version Manager (nvm) Setup
 ## Node version manager setup
 ## Screenshotting output of latest node version
 
 
-# Objective 2:
+# Objective 2: Example Scripts
 ## Grab Example Scripts 1-8 from provided assignment repo
 ## Document all 8 examples and show output of each
 ## Describing what each example does
